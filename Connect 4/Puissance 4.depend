@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1549379852 source:z:\c++\extra\puissance 4\main.cpp
+	<iostream>
+	"functions.h"
+	"IA.h"
+
+1545057129 .h"
+
+1545126504 
+
+1549379798 source:z:\c++\extra\puissance 4\functions.cpp
+	<iostream>
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1545290831 source:/home/amiche4/C++/Extra/Puissance 4/functions.cpp
+	<iostream>
+	"functions.h"
+	<iostream>
+	"functions.h"
+	<iostream>
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1545126504 /home/amiche4/C++/Extra/Puissance 4/functions.h
+	<vector>
+	<vector>
+	<vector>
+	<vector>
+
+1545126504 source:/home/amiche4/C++/Extra/Puissance 4/main.cpp
+	<iostream>
+	"functions.h"
+	<iostream>
+	"functions.h"
+	<iostream>
+	"functions.h"
+	"IA.h"
+	<iostream>
+	"functions.h"
+	"IA.h"
+
+1549379843 z:\c++\extra\puissance 4\functions.h
+	<vector>
+
+1546949672 source:z:\c++\extra\puissance 4\ia.cpp
+	<iostream>
+	"functions.h"
+	"IA.h"
+
+1545125312 z:\c++\extra\puissance 4\ia.h
+
+1545125312 /home/amiche4/C++/Extra/Puissance 4/IA.h
+
+1545290254 source:/home/amiche4/C++/Extra/Puissance 4/IA.cpp
+	<iostream>
+	"functions.h"
+	"IA.h"
+	<iostream>
+	"functions.h"
+	"IA.h"
+
+1546949674 source:z:\puissance 4\ia.cpp
+	<iostream>
+	"functions.h"
+	"IA.h"
+
+1549379844 z:\puissance 4\functions.h
+	<vector>
+
+1545125314 z:\puissance 4\ia.h
+
